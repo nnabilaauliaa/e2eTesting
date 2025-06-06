@@ -1,0 +1,20 @@
+{
+    "from" : "Jakarta",
+    "to" : "Singapura",
+    "airlines" : "Malaysia Airlines",
+    "sortBy": "Earliest",
+    "firstName": "Nabila",
+    "lastName": "Aulia",
+    "email": "nabila-aulia@yopmail.com",
+    "phoneNumber": "345678965",
+    "gender": "Female",
+    "birthDay": "29",
+    "birthMonth": "March",
+    "birthYear": "2001",
+    "Nationality": "Indonesia",
+    "passportNumber": "C748TJ1K2",
+    "country": "Indonesia",
+    "passportDate": "30",
+    "passportMonth": "August",
+    "passportYear": "2026"
+}
